@@ -1,4 +1,4 @@
-opencv-python==4.10.0.84
+opencv-python
 Flask
 torch
 torchvision
