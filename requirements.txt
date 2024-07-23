@@ -1,7 +1,6 @@
 opencv-python
+numpy
 Flask
-torch
-torchvision
 Pillow
 streamlit
 argparse
